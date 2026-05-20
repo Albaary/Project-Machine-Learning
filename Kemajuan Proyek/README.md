@@ -1,7 +1,6 @@
 # UAS Pembelajaran Mesin
 ## Proyek
-**Judul**: Klasifikasi Glaukoma pada Citra Retina Menggunakan MobileNetV3 sebagai feature extraction dan Multilayer Perceptron (MLP)
-
+**Judul**: Klasifikasi Glaukoma pada Citra Retina Menggunakan MobileNetV3 sebagai feature extraction dan Multilayer Perceptron (MLP)<br>
 **Topik**: Klasifikasi citra retina untuk mendeteksi glaukoma berdasarkan fundus image
 
 ## Progres
